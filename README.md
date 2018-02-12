@@ -7,7 +7,7 @@ Open the website URL and click on your desired movie box to watch the trailer.
 ## Deployment.
 Open the Movie folder, then double click on entertainment_center.py file and it will redirect you to the website, then you can click on whichever movie trailer you would love to watch.
 ### Built With
-IDLE (python GUI)
+* IDLE (python GUI)
 ## license.
 This project is licensed under MIT License - see the [LICENSE.md](LICENSE.md) file for details
 ## Acknoledgments.
